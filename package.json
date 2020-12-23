@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/kory-jackson-401-advanced-javascript/caps#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "faker": "^5.1.0"
   }
 }
